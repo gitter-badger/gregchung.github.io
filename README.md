@@ -9,7 +9,7 @@ Papers based on CoRE MOFs:
 * [Methane Storage and Delivery] (http://dx.doi.org/10.1039/C4EE03515A) _Energy and Environmental Science_
 * [Thermodynamic Tank Model for Natural Gas] (http://dx.doi.org/10.1039/C5EE00808E) _Energy and Environmental Science_
 * [Xe/Kr Separation] (http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.5b01475) _Chemistry of Materials_
-* [Screening for MOFs with Electrical conductivity] (http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.5b00298) _J. Physical Chemistry Letter_
+* [Screening for MOFs with Electrical conductivity] (http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.5b00298) _J. Phys. Chem. Letter_
 * [Methane/Hydrogen Separation] (http://pubs.acs.org/doi/abs/10.1021/acs.iecr.5b01901) _Industrial & Engineering Chemistry Research_
 
 Please cite the following paper if you find the dataset useful:
