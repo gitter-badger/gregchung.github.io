@@ -1,4 +1,4 @@
-NOTE: All inquries and bug reports regarding the dataset should be sent to: **chung@northwestern.edu**
+All inquries and bug reports regarding the dataset should be sent to: **chung@northwestern.edu**
 
 Download the entire crystal structures by clicking the links below:
 
