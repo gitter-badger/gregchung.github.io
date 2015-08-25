@@ -5,7 +5,7 @@ Download the entire crystal structures by clicking the links below:
 * [CORE-MOF-DB-09152014] (https://www.dropbox.com/s/eladr5xgce003nl/core-mof-sep2014.tar.xz?dl=0) (submission through Feb. 2014)
 * [CoRE-MOF-DB-08182015] (https://www.dropbox.com/s/3sz1o0nz397w448/core1charges.tar?dl=0) (>2,900 structures with DDEC charges)
 
-Papers based on CoRE MOFs:
+Papers using all or part of CoRE MOFs:
 * [Methane Storage and Delivery] (http://dx.doi.org/10.1039/C4EE03515A) _Energy and Environmental Science_
 * [Thermodynamic Tank Model for Natural Gas] (http://dx.doi.org/10.1039/C5EE00808E) _Energy and Environmental Science_
 * [Xe/Kr Separation] (http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.5b01475) _Chemistry of Materials_
