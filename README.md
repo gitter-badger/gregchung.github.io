@@ -13,7 +13,8 @@ All inquries and bug reports regarding the dataset should be sent to: **chung@no
 
 Please cite the following paper if you find the dataset useful:
 
-**Computation-Ready, Experimental Metal–Organic Frameworks: A Tool To Enable High-Throughput Screening of Nanoporous Crystals**
-Yongchul G. Chung, Jeffrey Camp, Maciej Haranczyk, Benjamin J. Sikora, Wojciech Bury, Vaiva Krungleviciute, Taner Yildirim, Omar K. Farha, David S. Sholl, and Randall Q. Snurr, _Chemistry of Materials_ **2014** _26_, 6185-6192
+**[Computation-Ready, Experimental Metal–Organic Frameworks: A Tool To Enable High-Throughput Screening of Nanoporous Crystals],** (http://pubs.acs.org/doi/abs/10.1021/cm502594j) Yongchul G. Chung, Jeffrey Camp, Maciej Haranczyk, Benjamin J. Sikora, Wojciech Bury, Vaiva Krungleviciute, Taner Yildirim, Omar K. Farha, David S. Sholl, and Randall Q. Snurr, _Chemistry of Materials_ **2014** _26_, 6185-6192
+
+
 
 The database and associated contents of the page was created with financial supports from the U.S. Department of Energy, Office of Basic Energy Sciences, Division of Chemical Sciences, Geosciences and Biosciences under Award DE-FG02-12ER16362.
