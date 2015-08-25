@@ -9,12 +9,11 @@ Papers based on CoRE MOFs:
 * [Screening for MOFs with Electrical conductivity] (http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.5b00298)
 * [Thermodynamic Tank Model for Natural Gas Storage] (http://dx.doi.org/10.1039/C5EE00808E)
 
-All inquries regarding the dataset should be sent to: **chung@northwestern.edu**
+All inquries and bug reports regarding the dataset should be sent to: **chung@northwestern.edu**
 
 Please cite the following paper if you find the dataset useful:
 
 **Computation-Ready, Experimental Metal–Organic Frameworks: A Tool To Enable High-Throughput Screening of Nanoporous Crystals**
-
 Yongchul G. Chung, Jeffrey Camp, Maciej Haranczyk, Benjamin J. Sikora, Wojciech Bury, Vaiva Krungleviciute, Taner Yildirim, Omar K. Farha, David S. Sholl, and Randall Q. Snurr, _Chemistry of Materials_ **2014** _26_, 6185-6192
 
 The database and associated contents of the page was created with financial supports from the U.S. Department of Energy, Office of Basic Energy Sciences, Division of Chemical Sciences, Geosciences and Biosciences under Award DE-FG02-12ER16362.
