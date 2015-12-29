@@ -1,4 +1,4 @@
-All reports regarding the dataset should be sent to: **chung@northwestern.edu**
+All bug reports regarding the dataset should be sent to: **chung@northwestern.edu**
 
 Download the database of crystal structures by clicking the links below:
 
