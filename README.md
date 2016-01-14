@@ -3,7 +3,7 @@ All bug reports regarding the dataset should be sent to: **chung@northwestern.ed
 Download the database of crystal structures by clicking the links below:
 
 * [CORE-MOF-DB-09152014] (https://github.com/gregchung/CoRE-MOFs/blob/7b604902c4ada29dd2b3680caf4b8f2634d7cb34/core-mof-sep2014.tar.xz) (submission through Feb. 2014)
-* [CoRE-MOF-DB-08182015] (https://github.com/gregchung/CoRE-MOFs/blob/7b604902c4ada29dd2b3680caf4b8f2634d7cb34/core-mof-ddec.tar) (>2,900 structures with DDEC charges)
+* [CoRE-MOF-DB-08182015] (https://github.com/gregchung/CoRE-MOFs/blob/d7a31e425b6deef42b48aa4c30ea5a12e928aeef/core-mof-1.0-ddec.tar) (>2,900 structures with DDEC charges)
 
 Papers using all or part of CoRE MOFs:
 * [Methane Storage and Delivery] (http://dx.doi.org/10.1039/C4EE03515A) _Energy and Environmental Science_
