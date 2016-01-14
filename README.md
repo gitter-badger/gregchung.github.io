@@ -1,9 +1,9 @@
-All inquries and bug reports regarding the dataset should be sent to: **chung@northwestern.edu**
+All bug reports regarding the dataset should be sent to: **chung@northwestern.edu**
 
 Download the database of crystal structures by clicking the links below:
 
-* [CORE-MOF-DB-09152014] (https://www.dropbox.com/s/eladr5xgce003nl/core-mof-sep2014.tar.xz?dl=0) (submission through Feb. 2014)
-* [CoRE-MOF-DB-08182015] (https://www.dropbox.com/s/3sz1o0nz397w448/core1charges.tar?dl=0) (>2,900 structures with DDEC charges)
+* [CORE-MOF-DB-09152014] (https://github.com/gregchung/CoRE-MOFs/blob/7b604902c4ada29dd2b3680caf4b8f2634d7cb34/core-mof-sep2014.tar.xz) (submission through Feb. 2014)
+* [CoRE-MOF-DB-08182015] (https://github.com/gregchung/CoRE-MOFs/blob/7b604902c4ada29dd2b3680caf4b8f2634d7cb34/core-mof-ddec.tar) (>2,900 structures with DDEC charges)
 
 Papers using all or part of CoRE MOFs:
 * [Methane Storage and Delivery] (http://dx.doi.org/10.1039/C4EE03515A) _Energy and Environmental Science_
