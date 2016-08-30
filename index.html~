@@ -20,16 +20,14 @@
         <h1>Computation-Ready Experimental Metal-Organic Frameworks</h1>
         <p>Enabling accelerated discovery of high-performing metal-organic frameworks</p>
         <p class="view"><a href="https://github.com/gregchung/CoRE-MOFs">View the Project on GitHub <small>gregchung/CoRE-MOFs</small></a></p>
+        <ul>
+          <li><a href="https://github.com/gregchung/CoRE-MOFs/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/gregchung/CoRE-MOFs/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/gregchung/CoRE-MOFs">View On <strong>GitHub</strong></a></li>
+        </ul>
       </header>
       <section>
         <p>All bug reports regarding the dataset should be sent to: <strong><a href="mailto:greg.chung@pusan.ac.kr">greg.chung@pusan.ac.kr</a></strong></p>
-
-<form action="https://formspree.io/greg.chung@pusan.ac.kr"
-      method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
-    <input type="submit" value="Send">
-</form>
 
 <p>Download the database of crystal structures by clicking the DROPBOX links below:</p>
 
