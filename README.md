@@ -4,9 +4,13 @@
 
 ![minima theme preview](/screenshot.png)
 
+<<<<<<< HEAD
 ## Installation
 
 Add this line to your Jekyll site's Gemfile:
+=======
+We'd appreciate if you could cite the following papers if you find the dataset useful:
+>>>>>>> Update README.md
 
 ```ruby
 gem "minima"
