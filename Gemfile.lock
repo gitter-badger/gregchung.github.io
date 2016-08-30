@@ -1,0 +1,12 @@
+GEM
+  specs:
+    minima (1.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minima
+
+BUNDLED WITH
+   1.12.5
