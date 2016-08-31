@@ -1,14 +1,48 @@
-All bug reports regarding the dataset should be sent to: **greg.chung@pusan.ac.kr**
+# minima
 
-Download the database of crystal structures by clicking the links below:
+*Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.
 
-* [CORE-MOF-DB-09152014] (https://github.com/gregchung/CoRE-MOFs/blob/7b604902c4ada29dd2b3680caf4b8f2634d7cb34/core-mof-sep2014.tar.xz) (submission through Feb. 2014)
-* [CoRE-MOF-DB-08182015] (https://github.com/gregchung/CoRE-MOFs/blob/d7a31e425b6deef42b48aa4c30ea5a12e928aeef/core-mof-1.0-ddec.tar) (>2,900 structures with DDEC charges)
+![minima theme preview](/screenshot.png)
 
-We'd appreciate if you could cite the following papers if you find the dataset useful:
+## Installation
 
-[**Computation-Ready, Experimental Metal–Organic Frameworks: A Tool To Enable High-Throughput Screening of Nanoporous Crystals**] (http://pubs.acs.org/doi/abs/10.1021/cm502594j) Yongchul G. Chung, Jeffrey Camp, Maciej Haranczyk, Benjamin J. Sikora, Wojciech Bury, Vaiva Krungleviciute, Taner Yildirim, Omar K. Farha, David S. Sholl, and Randall Q. Snurr, _Chemistry of Materials_ **2014** _26_, 6185-6192 ( for the original database contains 5,109 structures)
+Add this line to your Jekyll site's Gemfile:
 
-[**A Comprehensive Set of High-Quality Point Charges for Simulations of Metal–Organic Frameworks**] (http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.5b03836) Dalar Nazarian, Jeff S. Camp, David S. Sholl, _Chemistry of Materials_ **2016** _28_, 785-793 (for DDEC charges)
+```ruby
+gem "minima"
+```
 
-The database and associated contents of the page were created with financial supports from the U.S. Department of Energy, Office of Basic Energy Sciences, Division of Chemical Sciences, Geosciences and Biosciences under Award DE-FG02-12ER16362.
+And add this line to your Jekyll site:
+
+```yaml
+theme: minima
+```
+
+And then execute:
+
+    $ bundle
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/jekyll/minima. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+
+## Development
+
+To set up your environment to develop this theme, run `bundle install`.
+
+Then add a `css/main.scss` file based on the following template, don't forget to include the frontmatter:
+
+```css
+---
+---
+
+@import "minima";
+```
+
+You can choose to override the [`_includes/head.html `](_includes/head.html) file to specify a custom style path.
+
+To test your theme, run `bundle exec rake preview` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme and the contents of the `example/` directory. As you make modifications to your theme and to the example site, your site will regenerate and you should see the changes in the browser after a refresh.
+
+## License
+
+The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
