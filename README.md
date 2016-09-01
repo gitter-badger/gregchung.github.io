@@ -5,10 +5,13 @@
 ![minima theme preview](/screenshot.png)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Installation
 
 Add this line to your Jekyll site's Gemfile:
 =======
+=======
+>>>>>>> 9067d9ad5d98bd240953b25363c535fb6ea6b60f
 We'd appreciate if you could cite the following papers if you find the dataset useful:
 >>>>>>> Update README.md
 
