@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-permalink: /about
+permalink: about
 ---
 
 Our group investigates nanoporous materials (metal-organic frameworks, zeolites, covalent-organic frameworks, etc) for their utility in industrially important chemical separations and catalysis using modern tools of molecular simulation and data science. 
