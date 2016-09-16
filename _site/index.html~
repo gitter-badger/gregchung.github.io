@@ -6,13 +6,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>news</title>
+  <title>The Chung Research Group</title>
   <meta name="description" content="Computational Materials Discovery">
 
   
   
   <link rel="stylesheet" href="http://gregchung.github.io/css/main.css">
-  <link rel="canonical" href="http://gregchung.github.io/news/">
+  <link rel="canonical" href="http://gregchung.github.io/">
   <link rel="alternate" type="application/rss+xml" title="The Chung Research Group" href="http://gregchung.github.io/feed.xml">
   
   
@@ -49,6 +49,8 @@
          
           <a class="page-link" href="/example/css/main.css"></a>
          
+          <a class="page-link" href="/about/">About</a>
+         
           <a class="page-link" href="/news/">news</a>
          
           <a class="page-link" href="/people/">people</a>
@@ -70,12 +72,15 @@
         <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">news</h1>
+    <h1 class="post-title"></h1>
   </header>
 
   <div class="post-content">
-    research group news goes here
+    Our group investigates nanoporous materials (metal-organic frameworks, zeolites, covalent-organic frameworks, etc) for their utility in industrially important chemical separations and catalysis using modern tools of molecular simulation and data science. 
 
+<p><strong>
+Research Areas:
+</strong></p>
 
   </div>
 
