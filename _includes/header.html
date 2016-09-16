@@ -16,8 +16,8 @@
       </a>
 
       <div class="trigger">
- 	 {% assign sorted_pages = site.pages | sort: "name" %}
-	 {% for node in sorted_pages %}
+	{% assign sorted_pages = site.pages | sort: "name" %}
+	{% for my_page in sorted_pages %}
           <a class="page-link" href="{{ my_page.url | prepend: full_base_url }}">{{ my_page.title | escape }}</a>
          {% endfor %}
       </div>
