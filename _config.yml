@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Computation-Ready, Experimental Metal-Organic Frameworks
+title: The Chung Research Group
 email: greg.chung@pusan.ac.kr
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -21,8 +21,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "/CoRE-MOFs" # the subpath of your site, e.g. /blog
 url: "http://gregchung.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: qhfxm
+github_username:  gregchung
 
 # Build settings
 markdown: kramdown
