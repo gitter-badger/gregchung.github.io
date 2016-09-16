@@ -1,15 +1,13 @@
 ---
 layout: page
-title: The Chung Research Group
-permalink: 
+title: about
+permalink: /About
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Our group investigates nanoporous materials (metal-organic frameworks, zeolites, covalent-organic frameworks, etc) for their utility in industrially important chemical separations and catalysis using modern tools of molecular simulation and data science. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Research Areas
+- Gas storage, separation, and catalysis
+- Molecular thermodynamics
+- Molecular simulation (Molecular dynamics, Monte Carlo)
+- Material design and informatics
