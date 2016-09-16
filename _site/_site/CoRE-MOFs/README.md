@@ -1,1 +1,0 @@
-## CoRE MOF related stuff
