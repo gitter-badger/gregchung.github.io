@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "minima"
-  spec.version       = "1.0.1"
+  spec.version       = "1.2.0"
   spec.authors       = ["Joel Glovier"]
   spec.email         = ["jglovier@github.com"]
 
@@ -12,7 +12,10 @@ Gem::Specification.new do |spec|
 
   spec.metadata["plugin_type"] = "theme"
 
-  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(_includes|_layouts|_sass|LICENSE|README)/i}) }
+  spec.files         = `git ls-files -z`.split("\x0").select do |f|
+    f.match(%r{^(_(includes|layouts|sass)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
+  end
+
   spec.bindir        = "exe"
   spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
 
