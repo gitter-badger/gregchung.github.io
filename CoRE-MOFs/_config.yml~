@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Chung Research Group
+title: Computation-Ready, Experimental Metal-Organic Frameworks
 email: greg.chung@pusan.ac.kr
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Googleana search results) and in your feed.xml site description.
 baseurl: "/CoRE-MOFs" # the subpath of your site, e.g. /blog
 url: "http://gregchung.github.io" # the base hostname & protocol for your site
 twitter_username: qhfxm
@@ -27,4 +27,3 @@ github_username:  gregchung
 # Build settings
 markdown: kramdown
 theme: minima
-google_analytics: UA-66713824-1
