@@ -1,6 +1,7 @@
 ---
 layout: page
 title: software
+order: 4
 ---
 
 You can click <a href="https://github.com/gregchung/gregchung.github.io/blob/master/CoRE-MOFs/core-mof-sep2014.tar.xz"> here </a>to download the CoRE-MOF-Database Version 1.0 
