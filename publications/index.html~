@@ -3,10 +3,11 @@ layout: page
 title: publications
 order: 3
 ---
-
 <h4><a href="https://scholar.google.co.kr/citations?hl=en&user=1bRl4o4AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar </a></h4>
-<p>#: first author</p>
-<p>*: corresponding author</p>
+<p>
+#: first author
+*: corresponding author
+</p>
 <ol reversed>
 <li>P.Z. Moghadam<sup>#</sup>, <b><u>Y.G. Chung</u></b><sup>#</sup>, R.Q. Snurr</li>
 <li>S. Li, <b><u>Y.G. Chung</u></b>, C.M. Simon, R.Q. Snurr</li>
