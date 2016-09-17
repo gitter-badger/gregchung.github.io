@@ -1,2 +1,2 @@
 ## The Chung Research Group
-Jekyll repository of my research group website. Based on minima theme
+Jekyll repository of the Chung Research Group website. Based on minima theme
