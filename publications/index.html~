@@ -3,9 +3,8 @@ layout: page
 title: publications
 order: 3
 ---
-<h4><a href="https://scholar.google.co.kr/citations?hl=en&user=1bRl4o4AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar </a></h4>
-<p>
-#: first author
+<a href="https://scholar.google.co.kr/citations?hl=en&user=1bRl4o4AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar </a>
+<p>#: first author<br>
 *: corresponding author
 </p>
 <ol reversed>
