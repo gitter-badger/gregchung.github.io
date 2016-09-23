@@ -2,20 +2,20 @@
 layout: default
 order: 0
 ---
-<o>
-Our group investigates nanoporous materials (metal-organic frameworks, zeolites, covalent-organic frameworks, etc) for their utility in industrially important chemical separations and catalysis using modern tools of molecular simulation and data science. 
-</p>
-
+<center><h3><b><u>Open Position</u></b></h3></center>
 <p>
-<hr align="center" width="100%">
+We plan to add (1) graduate student (for a combined MS-PhD program) to join our team in the Spring 2017.
+Apply directly through <a href="http://go.pusan.ac.kr/graduate/grad/mojib.asp?p=84">graduate studies program</a> at Pusan National University, and send me an e-mail indicating your interest in our research.
 </p>
 
-<p><strong>
-Research Areas:
-</strong></p>
-<UL>
-<LI> Gas storage, separation, and catalysis
-<LI> Molecular simulation of Materials
-<LI> Materials genome and informatics
-</UL>
+<br>
 
+<h3>We are a molecular modeling group at Pusan National University focused on the atomistic modeling of chemical systems.
+  We are pursuing research in the following areas:
+<br>
+<UL>
+<LI> Gas storage
+<LI> Gas separation
+<LI> Catalysis
+<LI> <a href="./CoRE-MOFs">Materials genome and informatics</a>
+</UL>
