@@ -1,10 +1,10 @@
 # site wide settings
 
-title: The Chung Research Group
+title: CRG
 locale: en_US
 search: true
 email: greg.chung[at]pusan.ac.kr
-description: Computational Materials Discovery
+description: Solving Real World Problems with Atomistic Modeling
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gregchung.github.io" # the base hostname & protocol for your site
